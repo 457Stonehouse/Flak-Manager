@@ -6,3 +6,4 @@ Originally the concept of adding WW2 style flak to DCS World was pioneered by Si
 **Note requires MIST 3.7.51 or later. Download it here https://github.com/mrSkortch/MissionScriptingTools/releases/latest
 
 # Overview
+Please see flakexamples3.miz for examples of version 3.3 usage (flakexamples.miz is for version 3.2.)
